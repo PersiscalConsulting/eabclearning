@@ -2,3 +2,8 @@
 	path = aeroo/aeroo_reports
 	url = git@github.com:aeroo/aeroo_reports.git
 	branch = 11.0
+
+[submodule "ingadhoc/enterprise-extensions"]
+	path = ingadhoc/enterprise-extensions
+	url = git@github.com:ingadhoc/enterprise-extensions.git
+	branch = 11.0
