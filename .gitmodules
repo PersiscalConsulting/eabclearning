@@ -7,3 +7,8 @@
 	path = ingadhoc/enterprise-extensions
 	url = git@github.com:ingadhoc/enterprise-extensions.git
 	branch = 11.0
+
+[submodule "OCA/knowledge"]
+	path = OCA/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 11.0
