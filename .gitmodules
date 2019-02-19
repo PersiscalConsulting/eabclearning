@@ -107,3 +107,8 @@
 	path = ingadhoc/partner
 	url = git@github.com:ingadhoc/partner.git
 	branch = 11.0
+
+[submodule "ingadhoc/project"]
+	path = ingadhoc/project
+	url = git@github.com:ingadhoc/project.git
+	branch = 11.0
