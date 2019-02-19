@@ -97,3 +97,8 @@
 	path = ingadhoc/odoo-argentina
 	url = git@github.com:ingadhoc/odoo-argentina.git
 	branch = 11.0
+
+[submodule "ingadhoc/odoo-support"]
+	path = ingadhoc/odoo-support
+	url = git@github.com:ingadhoc/odoo-support.git
+	branch = 11.0
