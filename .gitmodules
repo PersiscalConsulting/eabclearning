@@ -12,3 +12,8 @@
 	path = OCA/knowledge
 	url = git@github.com:OCA/knowledge.git
 	branch = 11.0
+
+[submodule "ingadhoc/multi-company"]
+	path = ingadhoc/multi-company
+	url = git@github.com:ingadhoc/multi-company.git
+	branch = 11.0
