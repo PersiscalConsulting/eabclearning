@@ -102,3 +102,8 @@
 	path = ingadhoc/odoo-support
 	url = git@github.com:ingadhoc/odoo-support.git
 	branch = 11.0
+
+[submodule "ingadhoc/partner"]
+	path = ingadhoc/partner
+	url = git@github.com:ingadhoc/partner.git
+	branch = 11.0
