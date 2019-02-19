@@ -17,3 +17,8 @@
 	path = ingadhoc/multi-company
 	url = git@github.com:ingadhoc/multi-company.git
 	branch = 11.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 11.0
