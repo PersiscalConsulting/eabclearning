@@ -82,3 +82,8 @@
 	path = ingadhoc/argentina-reporting
 	url = git@github.com:ingadhoc/argentina-reporting.git
 	branch = 11.0
+
+[submodule "ingadhoc/argentina-sale"]
+	path = ingadhoc/argentina-sale
+	url = git@github.com:ingadhoc/argentina-sale.git
+	branch = 11.0
