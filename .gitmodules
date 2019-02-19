@@ -117,3 +117,8 @@
 	path = ingadhoc/reporting-engine
 	url = git@github.com:ingadhoc/reporting-engine.git
 	branch = 11.0
+
+[submodule "ingadhoc/sale"]
+	path = ingadhoc/sale
+	url = git@github.com:ingadhoc/sale.git
+	branch = 11.0
