@@ -28,7 +28,7 @@ IPy==0.83
 Jinja2==2.8
 lxml==3.7.1
 M2Crypto==0.31.0
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==0.23
 mock==2.0.0
 num2words==0.5.8
